@@ -43,11 +43,25 @@ Visualizations created:
 - Pie chart for content distribution
 - Heatmap for missing values
 
+### 3. Advanced EDA Tasks
+
+I added further exploration to deep dive into specific aspects of the dataset:
+
+- **Content Rating Analysis**: Created a countplot to analyze the distribution of age and maturity ratings across content.
+- **Genre Distribution**: Analyzed the `listed_in` column to determine the Top 10 most common genres/categories.
+- **Data Filtering & Extraction**: Demonstrated how to filter the dataset for very specific criteria (e.g., finding all Indian Movies).
+
+Visualizations created:
+
+- Bar chart for content ratings (Order of popularity)
+- Bar chart for Top 10 genres
+
 ## Tools & Libraries Used
 
 - Python
 - Pandas
 - Matplotlib
+- Seaborn
 
 ## Project Structure
 
